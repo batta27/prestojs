@@ -1,0 +1,315 @@
+[
+    {
+        "id":1,
+      "name": "Super birra ambrata",
+      "category": "Amber Strong Ale.",
+      "price": "110.12"
+    },
+    {
+        "id": 2,
+      "name": "Noel birra bruna",
+      "price": "9",
+      "category": "Strong Dark Ale. "
+    },
+    {
+        "id": 3,
+      "name": "Elixir birra demi-sec",
+      "price": "10",
+      "category": "Strong Amber Ale."
+    },
+    {
+        "id": 4,
+      "name": "Isaac birra bianca",
+      "price": "5",
+      "category": "Witbier. "
+    },
+    {
+        "id": 5,
+      "name": "Wayan birra saison",
+      "price": "5.8",
+      "category": "Saison."
+    },
+    {
+        "id": 6,
+      "name": "Nora birra egizia",
+      "price": "6.8",
+      "category": "Golden Ale."
+    },
+    {
+        "id": 7,
+      "name": "Xyauy birra da divano",
+      "price": "12",
+      "category": "Amber Strong Ale."
+    },
+    {
+        "id": 8,
+      "name": "Reale birra del Borgo",
+      "price": "6.4",
+      "category": "Red Ale. "
+    },
+    {
+        "id": 9,
+      "name": "Duchessa birra del Borgo",
+      "price": "6.2",
+      "category": "Strong Amber Ale."
+    },
+    {
+        "id": 10,
+      "name": "Rodersch",
+      "price": "5",
+      "category": "Amber Strong Ale."
+    },
+    {
+        "id": 11,
+      "name": "ArtigianAle",
+      "price": "6.2",
+      "category": "Witbier. "
+    },
+    {
+        "id": 12,
+      "name": "Confine",
+      "price": "6",
+      "category": "Strong Dark Ale. "
+    },
+    {
+        "id": 13,
+      "name": "Remedios",
+      "price": "5",
+      "category": "Golden Ale."
+    },
+    {
+        "id": 14,
+      "name": "Jehol",
+      "price": "4.8",
+      "category": "Witbier. "
+    },
+    {
+        "id": 15,
+      "name": "Xtrem",
+      "price": "9",
+      "category": "Strong Amber Ale."
+    },
+    {
+        "id": 16,
+      "name": "Black Mamba",
+      "price": "5",
+      "category": "Amber Strong Ale."
+    },
+    {
+        "id": 17,
+      "name": "Ley Line",
+      "price": "6",
+      "category": "Saison."
+    },
+    {
+        "id": 18,
+      "name": "Omnia",
+      "price": "5",
+      "category": "Strong Dark Ale. "
+    },
+    {
+        "id": 19,
+      "name": "Mellis",
+      "price": "6",
+      "category": "Golden Ale."
+    },
+    {
+        "id": 20,
+      "name": "Regina Nera",
+      "price": "7",
+      "category": "Saison."
+    },
+    {
+        "id": 21,
+      "name": "Rubinia",
+      "price": "7.5",
+      "category": "Red Ale. "
+    },
+    {
+        "id": 22,
+      "name": "Contessa Bionda",
+      "price": "5.2",
+      "category": "Pale lager."
+    },
+    {
+        "id": 23,
+      "name": "Contessa Weizen",
+      "price": "5.2",
+      "category": "Amber Strong Ale."
+    },
+    {
+        "id": 24,
+      "name": "Conte Jack",
+      "price": "6.5",
+      "category": "Strong Dark Ale. "
+    },
+    {
+        "id": 25,
+      "name": "Montestella ",
+      "price": "4.9",
+      "category": "Blond Ale. Unfiltered."
+    },
+    {
+        "id": 26,
+      "name": "Ghisa ",
+      "price": "5",
+      "category": "Witbier. "
+    },
+    {
+        "id": 27,
+      "name": "Domm ",
+      "price": "5",
+      "category": "Witbier. "
+    },
+    {
+        "id": 28,
+      "name": "Porpora ",
+      "price": "5.8",
+      "category": "Pale lager."
+    },
+    {
+        "id": 29,
+      "name": "Lambrate ",
+      "price": "7",
+      "category": "Amber Ale. Unfiltered."
+    },
+    {
+        "id": 30,
+      "name": "Sant'Ambroeus ",
+      "price": "7",
+      "category": "Amber Strong Ale."
+    },
+    {
+        "id": 31,
+      "name": "Brighella ",
+      "price": "8",
+      "category": "Strong Amber Ale."
+    },
+    {
+        "id": 32,
+      "name": "B.I.-Weizen",
+      "price": "5",
+      "category": "Witbier. "
+    },
+    {
+        "id": 33,
+      "name": "Extra Hop",
+      "price": "4.8",
+      "category": "Strong Amber Ale."
+    },
+    {
+        "id": 34,
+      "name": "Vode",
+      "price": "5.5",
+      "category": "Saison."
+    },
+    {
+        "id": 35,
+      "name": "Tipopils",
+      "price": "5.2",
+      "category": "Golden Ale."
+    },
+    {
+        "id": 36,
+      "name": "Negra!",
+      "price": "6.5",
+      "category": "Saison."
+    },
+    {
+        "id": 37,
+      "name": "Prima",
+      "price": "6.6",
+      "category": "Saison."
+    },
+    {
+        "id": 38,
+      "name": "Rossoscura",
+      "price": "5.7",
+      "category": "Strong Amber Ale."
+    },
+    {
+        "id": 39,
+      "name": "Bibock",
+      "price": "6.2",
+      "category": "Golden Ale."
+    },
+    {
+        "id": 40,
+      "name": "Sciresona",
+      "price": "6.9",
+      "category": "Strong Dark Ale. "
+    },
+    {
+        "id": 41,
+      "name": "Ambershock",
+      "price": "7",
+      "category": "Pale lager."
+    },
+    {
+        "id": 42,
+      "name": "Cassissona",
+      "price": "6.5",
+      "category": "Golden Ale."
+    },
+    {
+        "id": 43,
+      "name": "La 5",
+      "price": "5.5",
+      "category": "Pale lager."
+    },
+    {
+        "id": 44,
+      "name": "BK ",
+      "price": "6",
+      "category": "Dark lager. Unfiltered."
+    },
+    {
+        "id": 45,
+      "name": "La 9",
+      "price": "6.5",
+      "category": "Amber Strong Ale."
+    },
+    {
+        "id": 46,   
+      "name": "PVK ",
+      "price": "4.5",
+      "category": "Red Ale. "
+    },
+    {
+        "id": 47, 
+      "name": "Christmas Duck",
+      "price": "8.5",
+      "category": "Strong Dark Ale. "
+    },
+    {
+        "id": 48, 
+      "name": "Q Lager",
+      "price": "4.8",
+      "category": "Amber Strong Ale."
+    },
+    {
+        "id": 49, 
+      "name": "Q Weizen",
+      "price": "4",
+      "category": "Golden Ale."
+    },
+    {
+        "id": 50, 
+      "name": "Q Red",
+      "price": "6",
+      "category": "Red Ale. "
+    },
+    {
+        "id": 51, 
+      "name": "Q Special Reserve",
+      "price": "8.2",
+      "category": "Witbier. "
+    },
+    {
+        "id": 52, 
+      "name": "Lidl Special Reserve",
+      "price": "2.92",
+      "category": "Witbier. "
+    }
+    
+  ]
